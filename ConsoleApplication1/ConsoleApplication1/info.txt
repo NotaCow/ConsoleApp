@@ -1,0 +1,2 @@
+curBuildName:test
+curBuildVer :0.010000
